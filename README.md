@@ -1,7 +1,7 @@
 # programacionBasicaC
 Ejemplo de códigos en C/C++ para Código IoT
 
-#/bin/diccionarioENES.cpp
+# /bin/diccionarioENES.cpp
 
 Programa para traducir una frase completa Ingles-Espanol y Espanol-Ingles. En caso 
 de no tener palabra conocida en el diccionario, conservar la palabra en el idioma original
