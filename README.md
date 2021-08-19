@@ -1,6 +1,16 @@
 # programacionBasicaC
 Ejemplo de códigos en C/C++ para Código IoT
 
+# /bin/bits.cpp
+Imprime la secuencia
+0000
+0001
+0010
+0100
+1000
+0001
+Con un pausa entre cada envio de mensaje sin utilizar la función sleep()
+
 # /bin/diccionarioENES.cpp
 
 Programa para traducir una frase completa Ingles-Espanol y Espanol-Ingles. En caso 
